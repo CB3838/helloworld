@@ -1,1 +1,1 @@
-Readme
+Hello! My name is Cole Bennett. I am a CS student at UCCS in my junior year. Blah blah blah testing changes on readme-edits branch.
